@@ -1,40 +1,34 @@
-# Hi, I'm rsr-systems 👋
+<div align="center">
 
-> **Robotics, Autonomous Systems & AI Enthusiast**  
-> Focusing on state estimation (EKF), control systems (PID), and neural decision-making architectures.
+# `⚡ RSR // SYSTEMS ⚡`
 
----
+<!-- DYNAMIC TYPING TERMINAL -->
+<a href="https://github.com/rsr-systems">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=550&lines=%3E+INITIALIZING+KALMAN+FILTER+MATRIX...;%3E+PID+CONTROL+LOOP%3A+CONVERGED+(dt%3C0.8ms);%3E+SENSOR+FUSION%3A+IMU+%2B+ODOM+SYNCHRONIZED;%3E+CORE+SYSTEM+ONLINE%3A+READY+FOR+DEPLOYMENT" alt="Typing SVG" />
+</a>
 
-### 🛠 Tech Stack & Core Domains
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `C++` `Bash` |
-| **Robotics & Control** | Extended Kalman Filters (EKF), PID Controllers, State Estimation |
-| **AI & Systems** | Neural Simulations, Signal Processing, Autonomous Pipelines |
-| **Developer Tools** | Git, GitHub Actions, Linux / Terminal Environments |
-
----
-
-### 🚀 Featured Repositories
-
-- 🛰️ **[autonomous-systems-lab](https://github.com/rsr-systems/autonomous-systems-lab)**  
-  Core sandbox for robotics simulations, sensor fusion algorithms, and daily state-estimation experiments.
-- ⚡ **[LeetCode-CPP](https://github.com/rsr-systems/LeetCode-CPP)**  
-  Data structures and algorithmic problem solving optimized in modern C++.
-- 🎓 **[college-project](https://github.com/rsr-systems/college-project)**  
-  Academic coursework projects, software architecture, and system documentation.
-
----
-
-### 🎯 Current Focus & Research
-
-- Developing robust sensor-fusion pipelines using IMU & odometry data.
-- Implementing low-latency control loops for real-time trajectory tracking.
-- Optimizing C++ solutions for algorithmic complexity and memory efficiency.
-
----
+<br><br>
 
 <p align="center">
-  <i>Building reliable autonomous algorithms, from mathematical foundations to deployment.</i>
+  <img src="https://img.shields.io/badge/ARCH-REAL--TIME%20POSIX-0d1117?style=for-the-badge&logo=linux&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/CORE-MODERN%20C%2B%2B20-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff66" />
+  <img src="https://img.shields.io/badge/COMPILATION-0%20WARNINGS-0d1117?style=for-the-badge&logo=checkmarx&logoColor=7928ca" />
 </p>
+
+</div>
+
+---
+
+### 💻 `// SYSTEM TELEMETRY & HARDWARE SPECTRUM`
+
+```bash
+[rsr@systems-host ~]$ sys-inspect --verbose
+┌───────────────────┬────────────────────────────────────────────────────────┐
+│ SUBSYSTEM         │ ARCHITECTURE & TOOLCHAIN                               │
+├───────────────────┼────────────────────────────────────────────────────────┤
+│ Control Systems   │ Discrete & Adaptive PID, Trajectory Tracking           │
+│ State Estimation  │ Extended Kalman Filters (EKF), Quaternion Sensor-Fusion│
+│ High-Perf Compute │ C++20, Python 3.12, Vectorization, POSIX Shell         │
+│ Diagnostics       │ Hardware-in-the-loop (HIL) Tests, Real-time Logging    │
+└───────────────────┴────────────────────────────────────────────────────────┘
+[STATUS: 100% OPERATIONAL]
